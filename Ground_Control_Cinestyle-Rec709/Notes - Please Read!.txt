@@ -1,0 +1,15 @@
+Thanks for trying Ground Control LUTs!
+
+In this folder you'll find the normal .CUBE LUT.
+
+In the "Additional Formats" folder you'll find .3DL and .mga LUTs.
+
+If your program of choice doesn't read .CUBE files, try one of the other ones!
+
+LUT Buddy by Red Giant reads .3DL files and is compatible with Adobe software back to CS3 as well as FCP7 and more!
+
+Apple color should read .mga files.
+
+If you need an additional format, let us know at info@groundcontrolcolor.com and we'll try to make one for you!
+
+Thanks!
